@@ -1,0 +1,4 @@
+[submodule "photo_view"]
+	path = photo_view
+	url = https://github.com/fireslime/photo_view.git
+	shallow = true
