@@ -1,5 +1,5 @@
 name: photos
-publish_to: 'none'
+publish_to: "none"
 version: 1.0.0+1
 
 environment:
@@ -8,10 +8,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  photo_manager: ^0.5.8
-  photo_view: ^0.10.3
-  cupertino_icons: ^1.0.0
-  fl_chart: ^0.12.2
+  photo_manager:
+  photo_view:
+  cupertino_icons:
+  fl_chart:
 
 dev_dependencies:
   flutter_test:
